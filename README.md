@@ -1,3 +1,12 @@
+# sick_scan2 for dashing
+*** Under development *** 
+
+This fork repo can use tim551 on ros2-dashing.
+
+
+
+---------- Original README.md below ----------
+
 # sick_scan2
 This stack provides a ROS2 driver for the SICK lidar sensors mentioned in the following list.
 ## Table of contents

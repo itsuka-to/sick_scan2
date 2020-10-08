@@ -13,7 +13,7 @@ def generate_launch_description():
     node=Node(
         package='sick_scan2',
         name = 'sick_scan2_tim_5xx',
-        executable='sick_generic_caller',
+        node_executable='sick_generic_caller',
         parameters = [config]
     )
     ld.add_action(node)
